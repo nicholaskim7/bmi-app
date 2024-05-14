@@ -1,6 +1,7 @@
 "# bmi-app" 
 
 COMPILE INSTRUCTIONS:
+      A. Install the tkinter library in windows powershell: (pip install tkinter). Then install the add-on customtkinter: (pip install customtkinter).
       a. Compile settings.py<br />
       b. Compile bmi.py<br />
       c. A window will pop up<br />
