@@ -19,7 +19,7 @@ HIGH LEVEL DESIGN:<br />
 
 WHY I MADE THIS APP:<br />
       I am a fitness enthusiast and a common problem I noticed was that not many people know how to calculate their BMI score.<br />
-      Not only this but it is also not intuitive for some to know how to calculate from metric units to imperial units.<br />
+      Not only this but it is also not intuitive for some to know how to convert from metric units to imperial units.<br />
       To solve this issue I created this app to make calculating your BMI-score user-friendly and easy.<br />
 
 FYI:<br />
