@@ -2,10 +2,10 @@
 
 PYTHON VERSION: 3.11.9<br />
 
-COMPILE INSTRUCTIONS:<br />
+RUN INSTRUCTIONS:<br />
       A. Install the tkinter library in windows powershell: (pip install tkinter). Then install the add-on customtkinter: (pip install customtkinter).<br />
-      a. Compile settings.py<br />
-      b. Compile bmi.py<br />
+      a. Run settings.py<br />
+      b. Run bmi.py<br />
       c. A window will pop up<br />
       d. Click metric in the top right corner for desired units<br />
       e. Adjust weight using the 4 buttons of different weights<br />
