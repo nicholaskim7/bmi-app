@@ -18,8 +18,8 @@
       3. Incorporated metric switch functionality allowing seamless conversion between metric and imperial units for height and weight metrics.<br />
 
 **WHY I MADE THIS APP:**<br />
-      I am a fitness enthusiast and a common problem I noticed was that not many people know how to calculate their BMI score.<br />
-      Not only this but it is also not intuitive for some to know how to convert from metric units to imperial units.<br />
+      I am a fitness enthusiast and a common problem I noticed was that not many people know how to calculate their BMI score.
+      Not only this but it is also not intuitive for some to know how to convert from metric units to imperial units.
       To solve this issue I created this app to make calculating your BMI score user-friendly and easy.<br />
 
 **FYI:**<br />
