@@ -2,7 +2,7 @@
 
 *PYTHON VERSION: 3.11.9*
 
-**RUN INSTRUCTIONS:**<br />
+**USAGE:**<br />
       A. Install the tkinter library in windows powershell: (pip install tkinter). Then install the add-on customtkinter: (pip install customtkinter).<br />
       a. Run settings.py<br />
       b. Run bmi.py<br />
